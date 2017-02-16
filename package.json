@@ -1,0 +1,25 @@
+{
+  "name": "strophejs-plugin-register",
+  "version": "0.0.1",
+  "description": "A Strophe.js plugin for in-band registration (XEP-0077)",
+  "main": "strophe.register.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strophe/strophejs-plugin-register.git"
+  },
+  "keywords": [
+    "strophe.js",
+    "strophe",
+    "xmpp",
+    "plugin"
+  ],
+  "author": "The strophe plugin developers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strophe/strophejs-plugin-register/issues"
+  },
+  "homepage": "https://github.com/strophe/strophejs-plugin-register#readme"
+}
